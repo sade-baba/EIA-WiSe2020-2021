@@ -1,0 +1,1 @@
+window.promp("Gebe deinen Namen ein ")
